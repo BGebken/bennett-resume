@@ -1,7 +1,7 @@
 /*!
-    * Start Bootstrap - Resume v6.0.2 (https://startbootstrap.com/theme/resume)
-    * Copyright 2013-2021 Start Bootstrap
-    * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
+    * Start Bootstrap - Resume v1.0.0 (https://bennett.gebken.io)
+    * Copyright 2013-2021 Bennett Gebken
+    * Licensed under MIT (https://github.com/StartBootstrap/bennett-gebken-resume/blob/master/LICENSE)
     */
     (function ($) {
     "use strict"; // Start of use strict
